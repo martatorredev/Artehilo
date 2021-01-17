@@ -673,20 +673,20 @@ jQuery(function ($) {
 
         // Translate
         gdprCookieNoticeLocales.en = {
-            description: 'We use cookies to offer you a better browsing experience, personalise content and ads, to provide social media features and to analyse our traffic. Read about how we use cookies and how you can control them by clicking Cookie Settings. You consent to our cookies if you continue to use this website.',
-            settings: 'Cookie settings',
-            accept: 'Accept cookies',
-            statement: 'Our cookie statement',
-            save: 'Save settings',
-            always_on: 'Always on',
-            cookie_essential_title: 'Essential website cookies',
-            cookie_essential_desc: 'Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.',
-            cookie_performance_title: 'Performance cookies',
-            cookie_performance_desc: 'These cookies are used to enhance the performance and functionality of our websites but are non-essential to their use. For example it stores your preferred language or the region that you are in.',
-            cookie_analytics_title: 'Analytics cookies',
-            cookie_analytics_desc: 'We use analytics cookies to help us measure how users interact with website content, which helps us customize our websites and application for you in order to enhance your experience.',
-            cookie_marketing_title: 'Marketing cookies',
-            cookie_marketing_desc: 'These cookies are used to make advertising messages more relevant to you and your interests. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.'
+            description: 'Utilizamos cookies para ofrecerle una mejor experiencia de navegación, personalizar el contenido y los anuncios, proporcionar funciones de redes sociales y analizar nuestro tráfico. Lea sobre cómo usamos las cookies y cómo puede controlarlas haciendo clic en Configuración de cookies. Usted acepta nuestras cookies si continúa utilizando este sitio web.',
+            settings: 'Preferencias',
+            accept: 'Aceptar Cookies',
+            statement: 'Nuestras políticas de cookies',
+            save: 'Guardar ajustes',
+            always_on: 'Siempre aceptadas',
+            cookie_essential_title: 'Cookies esenciales del sitio web',
+            cookie_essential_desc: 'Las cookies necesarias ayudan a que un sitio web sea utilizable al habilitar funciones básicas como la navegación de páginas y el acceso a áreas seguras del sitio web. El sitio web no puede funcionar correctamente sin estas cookies.',
+            cookie_performance_title: 'Cookies de rendimiento',
+            cookie_performance_desc: 'Estas cookies se utilizan para mejorar el rendimiento y la funcionalidad de nuestros sitios web, pero no son esenciales para su uso. Por ejemplo, almacena su idioma preferido o la región en la que se encuentra. ',
+            cookie_analytics_title: 'Cookies de analítica',
+            cookie_analytics_desc: 'Utilizamos cookies de análisis para ayudarnos a medir cómo los usuarios interactúan con el contenido del sitio web, lo que nos ayuda a personalizar nuestros sitios web y aplicaciones para usted con el fin de mejorar su experiencia.',
+            cookie_marketing_title: 'Cookies de marketing',
+            cookie_marketing_desc: 'Estas cookies se utilizan para hacer que los mensajes publicitarios sean más relevantes para usted y sus intereses. La intención es mostrar anuncios que sean relevantes y atractivos para el usuario individual y, por lo tanto, más valiosos para los editores y anunciantes externos.'
         }
 
         gdprCookieNotice({
