@@ -1916,11 +1916,11 @@ header .navbar-expand .navbar-brand .featured .first {
 .navbar-expand.top .navbar-nav .nav-item a:not(.btn) {
     font-size: 0.85rem;
     font-weight: 400;
-    color: var(--secondary-p-color);
+    color: var(--section-6-bg-color);
 }
 
 .navbar-expand.top .navbar-nav .nav-item a:not(.btn):hover {
-    color: var(--secondary-color);
+    color: #f8f8f8;
 }
 
 .navbar-expand .navbar-nav .nav-item a:not(.btn) {
@@ -1943,7 +1943,7 @@ header .navbar-expand .navbar-brand .featured .first {
 
 .navbar-expand .navbar-nav.items .nav-link:not(.btn):not(.title):hover,
 .navbar-expand .navbar-nav.icons .nav-link:not(.btn):not(.title):hover {
-    color: var(--secondary-color);
+    color: var(--section-6-bg-color);
 }
 
 .navbar-expand .navbar-nav.items .nav-link.active:not(.btn):not(.title) {
